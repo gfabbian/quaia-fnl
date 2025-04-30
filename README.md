@@ -1,7 +1,7 @@
-# Primordial non-Gaussianity constraints from Quaia and CMB lensing
+# Constraints on primordial non-Gaussianity from Quaia
 
-This repository hosts material related to the cosmological analysis of the [Quaia quasar sample](https://doi.org/10.5281/zenodo.8060754) to constrain local primordial non-Gaussianity.
+This repository hosts material related to the cosmological analysis of the [Quaia quasar sample](https://doi.org/10.5281/zenodo.8060754) to constrain local primordial non-Gaussianity, published in [Fabbian et al. 2025](https://arxiv.org/abs/2504.20992).
 
-We plan to include the analysis pipeline as well as measurements used in our companion paper. In the meantime, we're happy to provide it upon request.
+Currently the repository includes a notebook showcasing the pseudo-C_ell estimation pipeline and the code used to generate theoretical predictions. We plan to include other relevant parts of the analysis pipeline as well as the measurements used in our companion paper upon acceptance. In the meantime, we're happy to provide them upon request.
 
-If you make use of any of these data or scripts for any publication, we kindly ask you to cite our papers.
+If you make use of any of these data or scripts for any publication, we kindly ask you to cite the companion paper (as well as any other relevant Quaia papers).
